@@ -1,0 +1,23 @@
+[
+    {
+      nombre: 'Juan',
+      apellido: 'Perez',
+      correo: 'juan.perez@example.com',
+      clave: '12345678',
+      rol: 'user'
+    },
+    {
+      nombre: 'Maria',
+      apellido: 'Lopez',
+      correo: 'maria.lopez@example.com',
+      clave: '87654321',
+      rol: 'user'
+    },
+    {
+      nombre: 'Admin',
+      apellido: 'User',
+      correo: 'admin.user@example.com',
+      clave: 'admin123',
+      rol: 'admin'
+    }
+  ]
