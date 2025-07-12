@@ -1,5 +1,6 @@
 [
 	{
+		"id": 1,
 		"img": "https://placehold.co/300x200/E8E8E8/000000?text=Pastillas+de+Freno",
 		"alt": "Pastillas de Freno",
 		"title": "Pastillas de Freno Cerámicas",
@@ -8,6 +9,7 @@
 		"link": "product_detail.html?id=1"
 	},
 	{
+		"id": 2,
 		"img": "https://placehold.co/300x200/D3D3D3/000000?text=Filtro+de+Aceite",
 		"alt": "Filtro de Aceite",
 		"title": "Filtro de Aceite Premium",
@@ -16,6 +18,7 @@
 		"link": "product_detail.html?id=2"
 	},
 	{
+		"id": 3,
 		"img": "https://placehold.co/300x200/C0C0C0/000000?text=Batería+de+Auto",
 		"alt": "Batería de Auto",
 		"title": "Batería de Auto 60Ah",
@@ -24,6 +27,7 @@
 		"link": "product_detail.html?id=3"
 	},
 	{
+		"id": 4,
 		"img": "https://placehold.co/300x200/A9A9A9/000000?text=Amortiguador",
 		"alt": "Amortiguador",
 		"title": "Amortiguador Delantero",

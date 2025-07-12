@@ -1,5 +1,6 @@
 [
 	{
+		"id": 1,
 		"img": "https://placehold.co/1920x500/55595c/ffffff?text=Oferta+Especial+en+Frenos",
 		"alt": "Oferta Especial en Frenos",
 		"title": "¡Oferta Especial en Sistemas de Frenos!",
@@ -9,6 +10,7 @@
 		"active": true
 	},
 	{
+		"id": 2,
 		"img": "https://placehold.co/1920x500/6c757d/ffffff?text=Nuevos+Filtros+de+Aire",
 		"alt": "Nuevos Filtros de Aire",
 		"title": "Nuevos Filtros de Aire de Alto Rendimiento",
@@ -18,6 +20,7 @@
 		"active": false
 	},
 	{
+		"id": 3,
 		"img": "https://placehold.co/1920x500/778899/ffffff?text=Accesorios+Exclusivos",
 		"alt": "Accesorios Exclusivos",
 		"title": "Accesorios Exclusivos para tu Vehículo",

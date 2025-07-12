@@ -1,5 +1,6 @@
 [
     {
+        "id": 1,
         "nombre": "Juan",
         "apellido": "Perez",
         "correo": "juan.perez@example.com",
@@ -7,6 +8,7 @@
         "rol": "user"
     },
     {
+        "id": 2,
         "nombre": "Maria",
         "apellido": "Lopez",
         "correo": "maria.lopez@example.com",
@@ -14,6 +16,7 @@
         "rol": "user"
     },
     {
+        "id": 3,
         "nombre": "Admin",
         "apellido": "User",
         "correo": "admin.user@example.com",
