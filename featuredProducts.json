@@ -5,8 +5,7 @@
 		"alt": "Pastillas de Freno",
 		"title": "Pastillas de Freno Cerámicas",
 		"desc": "Marca XYZ - Alta durabilidad",
-		"price": "$35.990",
-		"link": "product_detail.html?id=1"
+		"price": "$35.990"
 	},
 	{
 		"id": 2,
@@ -14,8 +13,7 @@
 		"alt": "Filtro de Aceite",
 		"title": "Filtro de Aceite Premium",
 		"desc": "Compatible con múltiples modelos",
-		"price": "$12.500",
-		"link": "product_detail.html?id=2"
+		"price": "$12.500"
 	},
 	{
 		"id": 3,
@@ -23,8 +21,7 @@
 		"alt": "Batería de Auto",
 		"title": "Batería de Auto 60Ah",
 		"desc": "Larga duración y arranque seguro",
-		"price": "$78.000",
-		"link": "product_detail.html?id=3"
+		"price": "$78.000"
 	},
 	{
 		"id": 4,
@@ -32,7 +29,6 @@
 		"alt": "Amortiguador",
 		"title": "Amortiguador Delantero",
 		"desc": "Marca ACME - Confort y seguridad",
-		"price": "$45.990",
-		"link": "product_detail.html?id=4"
+		"price": "$45.990"
 	}
 ]

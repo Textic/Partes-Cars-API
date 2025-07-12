@@ -2,25 +2,21 @@
 	{
 		"id": 1,
 		"icon": "fas fa-car-brake",
-		"title": "Frenos",
-		"link": "products.html?category=frenos"
+		"title": "Frenos"
 	},
 	{
 		"id": 2,
 		"icon": "fas fa-cogs",
-		"title": "Suspensión",
-		"link": "products.html?category=suspension"
+		"title": "Suspensión"
 	},
 	{
 		"id": 3,
 		"icon": "fas fa-oil-can",
-		"title": "Motor",
-		"link": "products.html?category=motor"
+		"title": "Motor"
 	},
 	{
 		"id": 4,
 		"icon": "fas fa-bolt",
-		"title": "Electricidad",
-		"link": "products.html?category=electricidad"
+		"title": "Electricidad"
 	}
 ]

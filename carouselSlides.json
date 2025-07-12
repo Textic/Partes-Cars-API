@@ -5,7 +5,6 @@
 		"alt": "Oferta Especial en Frenos",
 		"title": "¡Oferta Especial en Sistemas de Frenos!",
 		"desc": "Hasta 30% de descuento en pastillas y discos seleccionados.",
-		"link": "products.html?category=frenos",
 		"linkText": "Ver Ofertas",
 		"active": true
 	},
@@ -15,7 +14,6 @@
 		"alt": "Nuevos Filtros de Aire",
 		"title": "Nuevos Filtros de Aire de Alto Rendimiento",
 		"desc": "Mejora la eficiencia de tu motor con nuestra nueva línea.",
-		"link": "products.html?category=filtros",
 		"linkText": "Descubrir",
 		"active": false
 	},
@@ -25,7 +23,6 @@
 		"alt": "Accesorios Exclusivos",
 		"title": "Accesorios Exclusivos para tu Vehículo",
 		"desc": "Personaliza tu auto con estilo y calidad.",
-		"link": "products.html?category=accesorios",
 		"linkText": "Ver Accesorios",
 		"active": false
 	}
