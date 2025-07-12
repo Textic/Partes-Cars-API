@@ -1,0 +1,29 @@
+[
+	{
+		"img": "https://placehold.co/1920x500/55595c/ffffff?text=Oferta+Especial+en+Frenos",
+		"alt": "Oferta Especial en Frenos",
+		"title": "¡Oferta Especial en Sistemas de Frenos!",
+		"desc": "Hasta 30% de descuento en pastillas y discos seleccionados.",
+		"link": "products.html?category=frenos",
+		"linkText": "Ver Ofertas",
+		"active": true
+	},
+	{
+		"img": "https://placehold.co/1920x500/6c757d/ffffff?text=Nuevos+Filtros+de+Aire",
+		"alt": "Nuevos Filtros de Aire",
+		"title": "Nuevos Filtros de Aire de Alto Rendimiento",
+		"desc": "Mejora la eficiencia de tu motor con nuestra nueva línea.",
+		"link": "products.html?category=filtros",
+		"linkText": "Descubrir",
+		"active": false
+	},
+	{
+		"img": "https://placehold.co/1920x500/778899/ffffff?text=Accesorios+Exclusivos",
+		"alt": "Accesorios Exclusivos",
+		"title": "Accesorios Exclusivos para tu Vehículo",
+		"desc": "Personaliza tu auto con estilo y calidad.",
+		"link": "products.html?category=accesorios",
+		"linkText": "Ver Accesorios",
+		"active": false
+	}
+]
